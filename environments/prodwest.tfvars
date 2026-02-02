@@ -1,4 +1,4 @@
-environment              = "dev"
+environment              = "prodwest"
 prefix                   = "tw"
 region                   = "us-east-1"
 vpc_address_range        = "10.0.0.0/16"
